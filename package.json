@@ -1,0 +1,23 @@
+{
+  "name": "facebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NDubenchuck/facebot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NDubenchuck/facebot/issues"
+  },
+  "homepage": "https://github.com/NDubenchuck/facebot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
